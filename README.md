@@ -11,7 +11,7 @@ You can view the complete Jupyter Notebook here:
 
 ### 📈 Overall Customer Churn Percentage
 
-![Customer Churn Percentage]([images/porcentaje%20de%20clientes%20que%20cancelaron.png](https://github.com/jeisteve999/TelcomX-Churn-Analysis/blob/main/images/porrcentaje%20de%20clientes%20que%20cancelaron.png))
+![Customer Churn Percentage]([images/porcentaje%20de%20clientes%20que%20cancelaron.png](https://github.com/jeisteve999/TelcomX-Churn-Analysis/blob/main/images/porrcentaje%20de%20clientes%20que%20cancelaron.png)
 
 This chart shows the overall proportion of customers who canceled their subscription compared to those who stayed.
 
